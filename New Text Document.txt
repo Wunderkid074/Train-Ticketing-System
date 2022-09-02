@@ -1,0 +1,5 @@
+URL:
+http://localhost/Railway-Reservation-System-PHP/
+
+Phpmyadmin
+http://localhost/phpmyadmin/
